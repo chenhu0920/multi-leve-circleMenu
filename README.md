@@ -5,9 +5,9 @@
 2.一级环形菜单(n级环形菜单)相对圆心点的角度a，                                                                                       
 3.菜单内容data                                                                                                                   
 简单的配置如下：                                                                      
-new Menu({
-      container: document.querySelector('#container'),
-      data: [{
+new Menu({                                                                                                                     
+      container: document.querySelector('#container'),                                                    
+      data: [{ 
         level1Content: '需求管理',
         childMenu: [
           {
