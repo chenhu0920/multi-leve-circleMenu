@@ -4,7 +4,8 @@
 1.一级环形菜单(n级环形菜单)的半径r                                                                                                 
 2.一级环形菜单(n级环形菜单)相对圆心点的角度a，                                                                                       
 3.菜单内容data                                                                                                                   
-简单的配置如下：                                                                      
+简单的配置如下： 
+```js
 new Menu({                                                                                                                     
       container: document.querySelector('#container'),                                                    
       data: [{ 
@@ -44,3 +45,4 @@ new Menu({
           }]
       }]
     })
+    ```
