@@ -46,3 +46,5 @@ new Menu({
       }]
     })
 ```
+### 效果图：
+![image](https://github.com/chenhu0920/multi-leve-circleMenu/blob/master/D98BCB8A-4CA2-4A4B-AFF5-BFA3B3DBF386.png)
